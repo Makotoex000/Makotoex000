@@ -19,10 +19,6 @@
 <br>
     
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/c6/04/f0/c604f07940ee811deb7642a7364f4588.gif" width="200">
-</div>
-<br>
 
 <br>
 
