@@ -9,21 +9,15 @@
 </div>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2F[SEU_USUARIO]%2F[SEU_USUARIO]&s=21&c=5a2d70&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2F[Makotoex000]%2F[Makotoex000 ]&s=21&c=5a2d70&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
     
 <br>
 <br>
-    
-<div align="center">
-  <img src="https://i.imgur.com/nztvS91.jpeg" width="200">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/[SUA_MENSAGEM]-5a2d70" />
-</div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&center=true&lines=Sou+de+[SUA_CIDADE];Estudante+de+[SUA_AREA];Gosto+de+[SEU_HOBBY];Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&center=true&lines=Im+from+[Sorocaba];Im+studying+[systems analysis and development];I+like+[To understand how things work
+];Welcome+to+my+profile!" alt="Typing SVG"/>
 </div>
 
 <br>
