@@ -2,11 +2,8 @@
 
 <div align="center">
   <samp>
-    <b>
-      💻 DEVS | [SUA FUNÇÃO PRINCIPAL]
-    </b>
     <br>
-    Hi there! I'm [SEU_NOME]
+    Hi there! I'm Luan Makoto
     <br>
   </samp>
 </div>
@@ -44,14 +41,14 @@
   <img
     height=165
     align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=[SEU_USUARIO]&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
+    alt="Makotoex000's Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Makotoex000&theme=jolly&show_icons=true&hide_border=true&count_private=true"
   />
   <img
     height=165
     align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
+    alt="Makotoex000's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makotoex000&theme=jolly&show_icons=true&hide_border=true&layout=compact"
   />
   <br>
   <br>
@@ -61,7 +58,7 @@
     alt="Makotoex000's Streak"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Makotoex000&theme=jolly&hide_border=true"
   />
-  </div>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
@@ -84,23 +81,4 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-5a2d70?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:[SEU_EMAIL])
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-5a2d70?style=for-the-badge&logo=linkedin&logoColor=fff)]([LINK_LINKEDIN])
-  [![Instagram](https://img.shields.io/badge/Instagram-5a2d70?style=for-the-badge&logo=instagram&logoColor=fff)]([LINK_INSTAGRAM])
-    
-</div>
-
-<div align="center">
-  <p align="center">
-    <samp>
-      ♡ <a href="[LINK_LINK_TREE_OU_SIMILAR]">linktr.ee/seuperfil</a> ⊹
-    </samp>
-  </p>
-</div>
-
-##
-
-</details>
-
-<br>
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a2d70&height=100&section=footer"/>
+  [![Instagram](
