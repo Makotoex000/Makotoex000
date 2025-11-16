@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      Desenvolvedor de Software
+      Software Analyst
     </b>
     <br>
     Hi there! I'm Luan Makoto
