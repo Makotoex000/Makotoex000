@@ -19,7 +19,7 @@
 <br>
     
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c6/04/f0/c604f07940ee811deb7642a7364f4588.gif" width="200">
+  <img src="https://i.imgur.com/YKUf7QH.gif" width="200">
 </div>
 <br>
 
@@ -67,4 +67,38 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
   </div>
 
-<br
+<br>
+
+##
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-5a2d70?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:[YOUR_EMAIL])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-5a2d70?style=for-the-badge&logo=linkedin&logoColor=fff)]([LINK_LINKEDIN])
+  [![Instagram](https://img.shields.io/badge/Instagram-5a2d70?style=for-the-badge&logo=instagram&logoColor=fff)]([LINK_INSTAGRAM])
+    
+</div>
+
+<div align="center">
+  <p align="center">
+    <samp>
+      ♡ <a href="[LINK_LINK_TREE_OR_SIMILAR]">linktr.ee/yourprofile</a> ⊹
+    </samp>
+  </p>
+</div>
+
+##
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a2d70&height=100&section=footer"/>
