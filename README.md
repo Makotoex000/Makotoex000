@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      Software Analyst
+      Software Developer
     </b>
     <br>
     Hi there! I'm Luan Makoto
@@ -19,7 +19,7 @@
 <br>
     
 <div align="center">
-  <img src="https://i.imgur.com/YKUf7QH.gif" width="200">
+  <img src="https://i.imgur.com/nztvS91.jpeg" width="200">
 </div>
 <br>
 
@@ -68,19 +68,6 @@
   </div>
 
 <br>
-
-##
-
-<div align="center">
-  <p align="center">
-    <samp>
-      ♡ <a href="[LINK_LINK_TREE_OR_SIMILAR]">linktr.ee/yourprofile</a> ⊹
-    </samp>
-  </p>
-</div>
-
-##
-
 </details>
 
 <br>
