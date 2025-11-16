@@ -23,9 +23,10 @@
 </div>
 <br>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&center=true&lines=I+am+from+Sorocaba;Student+of+Analysis+and+Systems+Development;Love+playing+games;Welcome+to+my+profile!" alt="Typing SVG"/>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/c6/04/f0/c604f07940ee811deb7642a7364f4588.gif" width="200">
 </div>
+<br>
 
 <br>
 
