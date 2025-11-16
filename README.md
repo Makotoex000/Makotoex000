@@ -3,10 +3,10 @@
 <div align="center">
   <samp>
     <b>
-      💻 DEVS | [YOUR MAIN ROLE]
+      Desenvolvedor de Software
     </b>
     <br>
-    Hi there! I'm [YOUR_NAME]
+    Hi there! I'm Luan Makoto
     <br>
   </samp>
 </div>
@@ -70,21 +70,6 @@
 <br>
 
 ##
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-5a2d70?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:[YOUR_EMAIL])
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-5a2d70?style=for-the-badge&logo=linkedin&logoColor=fff)]([LINK_LINKEDIN])
-  [![Instagram](https://img.shields.io/badge/Instagram-5a2d70?style=for-the-badge&logo=instagram&logoColor=fff)]([LINK_INSTAGRAM])
-    
-</div>
 
 <div align="center">
   <p align="center">
