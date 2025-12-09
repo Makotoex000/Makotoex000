@@ -1,18 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5a2d70"/>
 
 <div align="center">
-  <samp>
-    <b>
 		<h1>
       Software Developer
 		</h1>
-    </b>
     <br>
 	  <h2>
     Hi there! I'm Luan Makoto
 	  </h2>
     <br>
-  </samp>
 </div>
 
 
