@@ -4,11 +4,9 @@
 		<h1>
       Software Developer
 		</h1>
-    <br>
 	  <h2>
     Hi there! I'm Luan Makoto
 	  </h2>
-    <br>
 </div>
 
 
