@@ -34,27 +34,8 @@
   <br>
 
 <div align="center">
-  <img
-    height=165
-    align="center"
-    alt="Makotoex000's Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Makotoex000&theme=jolly&show_icons=true&hide_border=true&count_private=true"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Makotoex000's Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makotoex000&theme=jolly&show_icons=true&hide_border=true&layout=compact"
-  />
-  <br>
-  <br>
-  <img
-    height=165
-    align="center"
-    alt="Makotoex000's Streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Makotoex000&theme=jolly&hide_border=true"
-  />
-  </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Makotoex000&theme=jolly&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+</div>div>
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
