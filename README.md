@@ -3,12 +3,14 @@
 <div align="center">
   <samp>
     <b>
-		<b>
+		<h3>
       Software Developer
-		</b>
+		</h3>
     </b>
     <br>
+	  <h3>
     Hi there! I'm Luan Makoto
+	  </h3>
     <br>
   </samp>
 </div>
