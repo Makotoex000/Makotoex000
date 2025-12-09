@@ -3,10 +3,14 @@
 <div align="center">
   <samp>
     <b>
+		<h1>
       Software Developer
+		</h1>
     </b>
     <br>
+	  <h2>
     Hi there! I'm Luan Makoto
+	  </h2>
     <br>
   </samp>
 </div>
@@ -15,7 +19,7 @@
     
 <br>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c6/04/f0/c604f07940ee811deb7642a7364f4588.gif" width="200">
+  <img src="https://i.pinimg.com/originals/c6/04/f0/c604f07940ee811deb7642a7364f4588.gif" width="400">
 </div>
 <br>
 <div align="center" width="100%">
