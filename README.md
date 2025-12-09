@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&center=true&lines=I+am+from+Sorocaba;Student+of+Analysis+and+Systems+Development;Love+playing+games;Welcome+to+my+profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4B0082&width=900&size=21&center=true&lines=I+am+from+Sorocaba;Student+of+Analysis+and+Systems+Development;Love+playing+games;Welcome+to+my+profile!" alt="Typing SVG"/>
 </div>
     
 <br>
