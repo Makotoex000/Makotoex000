@@ -38,7 +38,7 @@
   <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Makotoex000/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Makotoex000&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
 </div>
