@@ -38,8 +38,10 @@
   <br>
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Makotoex000&theme=jolly&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-</div>div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Makotoex000" alt="GitHub Stats" />
+  </a>
+</div>
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
