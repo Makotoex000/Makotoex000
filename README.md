@@ -34,7 +34,9 @@
   </summary>
     
   <br>
-
+  <br>
+  <br>
+  
   <div align="center">
     <p>
       I am an Analysis and Systems Development student at FACENS with a background in Administration. 
