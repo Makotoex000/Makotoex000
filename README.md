@@ -45,6 +45,11 @@
     </p>
   </div>
 
+  <br>
+  <br>
+  <br>
+
+
   <div align="center">
     <a href="https://github.com/Makotoex000/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=Makotoex000&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="Makotoex000's Stats" />
