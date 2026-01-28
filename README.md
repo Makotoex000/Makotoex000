@@ -59,7 +59,12 @@
     </a>
   </div>
 
+  <br>
+  <br>
+
   <div align="center">
+	  <a>Languages and Frameworks</a>
+	  <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" width="45" alt="C#" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" width="45" alt=".NET" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" width="45" alt="Angular" />
