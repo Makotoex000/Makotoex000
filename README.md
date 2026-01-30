@@ -50,14 +50,10 @@
     </p>
   </div>
 
-  <div align="center">
-        <td width="50%" align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=Makotoex000&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
-        </td>
-        <td width="50%" align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makotoex000&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="Langs" />
-        </td>    
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Makotoex000&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="Stats" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makotoex000&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="Langs" height="170em" />
+</div>
 
   <br>
 
