@@ -51,16 +51,12 @@
   </div>
 
   <div align="center">
-    <table border="0">
-      <tr>
         <td width="50%" align="center">
           <img src="https://github-readme-stats.vercel.app/api?username=Makotoex000&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
         </td>
         <td width="50%" align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makotoex000&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="Langs" />
-        </td>
-      </tr>
-    </table>
+        </td>    
   </div>
 
   <br>
